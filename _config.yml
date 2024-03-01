@@ -104,3 +104,9 @@ deploy:
   type: git
   repo: git@github.com:1217815008/WJX-BLOG.git
   branch: master
+
+search:
+  path: search.xml
+  field: post
+  form: html
+  limit: 10000
