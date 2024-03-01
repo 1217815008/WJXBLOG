@@ -1,14 +1,22 @@
 ---
-title: Linux命令基础
+title: Linux基础命令               #标题
+date: 2024-02-29 00:00:00               #日期
+updated: 2024-02-29 00:00:00            #最后更新日期
+tags: Linux              #文章标签
+categories: 自学         #文章分类
+keywords: Linux           #关键词
+description:         #描述
+#top_img:             #文章顶部图片
+cover: 'https://cdn.jsdelivr.net/gh/1217815008/picogo/img/img2.wallspic.com-kong_jian-linux-linux_fa_xing_ban-ubuntu-ka_tong-1080x1920.jpg'              #文章缩略图(如果没有设置top_img,文章页顶部将显示缩略图，可设为false/图片地址/留空)
 
+# copyright:           #显示文章版权
+# copyright_author:    #文章版权模块的文章作者
+# copyright_author_href:   #文章版权模块的文章作者链接
+# copyright_url:       #文章版权模块的文章连结链接
+# copyright_info:      #文章版权模块的版权声明文字
 
 ---
 
-
-
-# Linux命令基础
-
-‍
 
 ### pwd 命令（打印当前工作路径）
 
@@ -39,7 +47,7 @@ ls -a  //列举当前目录所有内容（包括隐藏文件）
 ls -a-l
 ```
 
-​![image](assets/image-20240213163141-krb8bi5.png)​
+​![image](https://cdn.jsdelivr.net/gh/1217815008/picogo/img/image-20240213163141-krb8bi5.png)​
 
 rwx 可读可写可执行
 
