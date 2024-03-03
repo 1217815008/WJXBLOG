@@ -133,3 +133,19 @@ hide_posts:
 topindex_generator:
   per_page: 10
   order_by: -date
+
+aplayer:
+  meting: true
+  asset_inject: false
+
+
+# Artitalk说说
+# see https://artitalk.js.org/
+artitalk:
+    enable: true
+    appId: IF6ExzPU1Wg7zl8pxqFzihf6-MdYXbMMI
+    appKey: 4sWDwU5GtxblbdH7efjsVgAX
+    path:
+    js:
+    option:
+    front_matter:

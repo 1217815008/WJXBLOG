@@ -1,23 +1,45 @@
-- class_name: 友情鏈接
+- class_name: 推荐博客
   class_desc: 那些人，那些事
   link_list:
-    - name: Hexo
-      link: https://hexo.io/zh-tw/
-      avatar: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg
-      descr: 快速、簡單且強大的網誌框架
+    - name: 
+      link: 
+      avatar: 
+      descr: 
+    - name: 
+      link: 
+      avatar: 
+      descr: 
+    - name: 
+      link: 
+      avatar: 
+      descr: 
+    - name: 
+      link: 
+      avatar: 
+      descr: 
 
-- class_name: 網站
-  class_desc: 值得推薦的網站
+
+
+- class_name: 工具网站
+  class_desc: 值得推荐的网站
   link_list:
-    - name: Youtube
-      link: https://www.youtube.com/
-      avatar: https://i.loli.net/2020/05/14/9ZkGg8v3azHJfM1.png
-      descr: 視頻網站
-    - name: Weibo
-      link: https://www.weibo.com/
-      avatar: https://i.loli.net/2020/05/14/TLJBum386vcnI1P.png
-      descr: 中國最大社交分享平台
-    - name: Twitter
-      link: https://twitter.com/
-      avatar: https://i.loli.net/2020/05/14/5VyHPQqR6LWF39a.png
-      descr: 社交分享平台
+    - name: PDF
+      link: https://www.ilovepdf.com/zh-cn
+      avatar: https://cdn.jsdelivr.net/gh/1217815008/picogo/img/20240303214034.png
+      descr: 转换工具
+    - name: Tinyfy
+      link: https://tinypng.com/
+      avatar: https://cdn.jsdelivr.net/gh/1217815008/picogo/img/20240303214436.png
+      descr: 在线图片压缩
+    - name: 串口助手
+      link: https://serial.keysking.com/
+      avatar: https://cdn.jsdelivr.net/gh/1217815008/picogo/img/20240303214635.png
+      descr: 调试
+    - name: 即时工具
+      link: https://www.67tool.com/
+      avatar: https://cdn.jsdelivr.net/gh/1217815008/picogo/img/20240303214930.png
+      descr: 工具集合
+    - name: 菜鸟教程
+      link: https://www.runoob.com/
+      avatar: https://cdn.jsdelivr.net/gh/1217815008/picogo/img/20240303215210.png
+      descr: 学习编程
