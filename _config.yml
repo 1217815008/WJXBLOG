@@ -129,3 +129,7 @@ hide_posts:
   # Generators in the blocklist can *not* access the hidden posts.
   # The allowlist has higher priority than the blocklist, if both set.
   # blocklist_generators: ['*']
+##置顶
+topindex_generator:
+  per_page: 10
+  order_by: -date
